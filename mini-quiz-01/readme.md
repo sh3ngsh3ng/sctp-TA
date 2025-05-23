@@ -1,4 +1,4 @@
-# Tasks
+# Mini Quiz 1
 ### 1) Create an express server (15 minutes)
 - Refer to Lab 01
 - Make sure to run your express app with nodemon so that changes are loaded
